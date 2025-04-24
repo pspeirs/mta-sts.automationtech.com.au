@@ -1,4 +1,5 @@
 version: STSv1
 mode: none
-mx: mail.automationtech.com.au
+mx: *.win.arvixe.com
+mx: win.arvixe.com
 max_age: 84600
