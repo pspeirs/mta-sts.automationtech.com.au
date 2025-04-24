@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
-mx: mail.urban-pt.com.au
-max_age: 604800
+mode: none
+mx: mail.automationtech.com.au
+max_age: 84600
